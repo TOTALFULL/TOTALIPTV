@@ -1,0 +1,72 @@
+#EXTM3U
+
+
+#EXTINF:-1,CANAL 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,MAX TV
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,WILLAX
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+#EXTINF:-1,RPC HD
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1,AZTEKA TRECE HONDURAS
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1,AZTEKA GUATEMALA
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
+#EXTINF:-1,TRECE
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:-1,AZTEKA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,CATALUNIA CANAL 3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b798000_DVR.m3u8
+#EXTINF:-1,CB24
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:-1,LIVE TV
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1,DW MULTIMEDIA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,ABC
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,BLOOMBERG
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M700.m3u8
+#EXTINF:-1,SKTG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream2/streamPlaylist.m3u8
+#EXTINF:-1,ARTE
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,M6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:-1,SIXTER
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1,W9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1,ROUGE
+http://rtmp.infomaniak.ch/livecast/rougetv/chunklist_w1380020607.m3u8
+#EXTINF:-1,VIRGIN
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:-1,KISS TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+WEO TV
+http://str81.creacast.com/weo/smil:weo.smil/chunklist_w439643336_b796000.m3u8
+FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+DJING MUSIC
+http://cdn.djing.com/tv/d-05.m3u8
+DJING MUSIC 2
+http://www.djing.com/tv/hothothot.m3u8?
+C5N
+http://c5n.stweb.tv:1935/c5n/live_media/chunklist_w1619505761.m3u8
+HITTV
+http://195.55.74.206/rtpa/tv-iphone/stream.m3u8?GKID=c07cadb4d9fe11e5a9f500163e914f69&fspref=aHR0cDovL21pdGVsZS5lc3kuZXMvbGl2ZWNhc3QvcnRwYS1hc3R1cmlhcy5odG1s
+TVA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+LA RED
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist_w1091678468_b564000.m3u8
+
