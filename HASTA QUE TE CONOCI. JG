@@ -1,33 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Hasta_que_te_conoc%C3%AD.jpg",[COLOR white]++++ HASTA QUE TE CONOCI! ( Juan Gabriel Mi Historia ) ++++[/COLOR] 
-http://?
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 1
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x01.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 2
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x02.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 3
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x03.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 4
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x04.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 5
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x05.mp4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 6
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x06.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 7
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x07.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 8
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x08.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 9
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x09.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 10
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x10.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 11
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x11.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 12
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x12.MP4
-#EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 13
-http://209.126.108.87/series%20latinas%202/Hasta%20que%20te%20conoc%C3%AD/Hasta%20que%20te%20conoc%C3%AD.tp1x13.MP4
+##EXTM3U
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x01
+http://live.tvplayerlatino.com/episodio/3399.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x02
+http://live.tvplayerlatino.com/episodio/3400.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x03
+http://live.tvplayerlatino.com/episodio/3401.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x04
+http://live.tvplayerlatino.com/episodio/3402.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x05
+http://live.tvplayerlatino.com/episodio/3403.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x06
+http://live.tvplayerlatino.com/episodio/3404.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x07
+http://live.tvplayerlatino.com/episodio/3405.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x08
+http://live.tvplayerlatino.com/episodio/3406.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x09
+http://live.tvplayerlatino.com/episodio/3407.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x10
+http://live.tvplayerlatino.com/episodio/3408.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x11
+http://live.tvplayerlatino.com/episodio/3409.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x12
+http://live.tvplayerlatino.com/episodio/3410.mp4
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí - 01x13
+http://live.tvplayerlatino.com/episodio/3411.mp4
 #EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Capitulo 14  Final  en July 17 Entrevista con Juan Gabriel Su Historia
 https://www.youtube.com/watch?v=OqczcktpIU4
 #EXTINF:-1 tvg-logo="RTV_INTERNAL_LOGO://Picturebox2",Hasta que te Conocí - Juan Gabriel En vivo
