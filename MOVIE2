@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,STAR WARS 7
+#EXTINF:-1,STAR WARS 7 (ESPAÑOL)
 http://www.spruto.tv/get_file/1/8c5cd7427505836d70630055ddccdb5b/176000/176480/176480.mp4
+
+#EXTINF:-1,STAR WARS 7 THE FORCE AWAKENS (SUB) 720p
+http://www.spruto.tv/get_file/1/2b27f90eb41d1139487cd68bd7b5fa87/176000/176367/176367.mp4
+
+#EXTINF:-1,STAR WARS 7 THE FORCE AWAKENS (ING) 720p
+http://www.spruto.tv/get_file/1/0bfecaf060c145cf577fa317ac3822bd/176000/176350/176350.mp4
 
 #EXTINF:-0 tvg-logo="http://www.bluraysv.com/dvd_general/AMERICAN%20OUTLAWS.jpg",Renegados Americanos
 http://200.76.77.237/VOD/H01/SD/renegados_AMericanos/04.m3u8?
