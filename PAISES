@@ -86,8 +86,7 @@ rtmp://c5n.stweb.tv:1935/c5n/live
 
 EXTINF:-1,TELEFE 
 http://live-edge01.telecentro.net.ar/test/smil:prueba2.smil/playlist.m3u8
-#EXTINF:-1,CANAL 13 
-http://live-edge02.telecentro.net.ar/test/smil:prueba1.smil/playlist.m3u8
+
 
 #EXTINF:-1,Azteka 13
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
