@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, COS1 PANAMA
+#EXTINF:-1, COS 1 PANAMA
 http://drzpnluud0g9z.cloudfront.net/live/smil:559270467550.smil/playlist.m3u8
 
 
-#EXTINF:-1, COS2 PANAMA
+#EXTINF:-1, COS 2 PANAMA
 http://d1zzs59ub7i1a.cloudfront.net/live/smil:559270467550.smil/playlist.m3u8
 
 #EXTINF:-1, ECO TV PANAMA
