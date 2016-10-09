@@ -70,6 +70,8 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1,RT
 http://iphone-streaming.ustream.tv/uhls/5903998/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1,Canal De Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
 #EXTINF:-1,SMO TV HD
 http://199.217.118.90:1935/smotv/stream/live.m3u8
@@ -191,6 +193,16 @@ http://www.djing.com/tv/a-05.m3u8
 http://www.djing.com/tv/u-05.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="djing.png",[COLOR orangered]Djing 4[/COLOR]
 http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?
+
 
 #EXTINF:-1,ONE TV
 http://server5.stweb.tv/radioone/live/playlist.m3u8
@@ -690,37 +702,14 @@ http://aztecalive-lh.akamaihd.net/i/16up5a31u_1@85250/master.m3u8
 #EXTINF:-1,Azteca noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
 
-
-
-
-#EXTINF:-1,==Mosaico Televisa==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1,Canal de las Estrellas (TDT)
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,Canal de las estrellas
-http://191.101.228.168/tp.php/playlist.m3u8?id=1123
-#EXTINF:-1,Canal 5
-http://191.101.228.168/tp.php/playlist.m3u8?id=1111
-#EXTINF:-1,Gala tv
-http://191.101.228.168/tp.php/playlist.m3u8?id=1239
-#EXTINF:-1,FORO TV
-http://191.101.228.168/tp.php/playlist.m3u8?id=1107
 #EXTINF:-1,Once tv señal internacional
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,MULTIMEDIOS TELEVISION
-http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
-#EXTINF:-1,Una voz con todos
-http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
-#EXTINF:-1,Canal 2 Ciudad Obregon
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
-#EXTINF:-1,RCG
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
 #EXTINF:-1,XHSDD 5tv
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1,TVMAS
 rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,XHMOR 49 SMRTV
-http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8
+
 #EXTINF:-1,XHQ 30 TV Pacífico
 http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 #EXTINF:-1,XHTLX 22 TDT
@@ -733,16 +722,14 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
 #EXTINF:-1,CAPITAL 21 CDMX
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
-#EXTINF:-1,Aprende TV
-http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+
 #EXTINF:-1,Canal del Congreso MX
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 #EXTINF:-1,C7 Guadalajara
 http://74.63.97.188:1935/c7/videoc7/master.m3u8
 #EXTINF:-1,Canal 66 Mexicali
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
-#EXTINF:-1,Canal De Las Estrellas Latinoamerica
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
 #EXTINF:-1,Teveo Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Canal 13 (Nicaragua)
@@ -827,20 +814,8 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:-1,real madrid tv
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1,MIMUSICA HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1,Cantinazo TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1,Virgin Radio
-http://fms.105.net:1935/live/virgin1/.m3u8?
-#EXTINF:-1,VEVO HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-#EXTINF:-1,Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+
 #EXTINF:-1,ONE TV
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
