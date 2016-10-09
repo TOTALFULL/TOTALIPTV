@@ -10,13 +10,10 @@ http://d1zzs59ub7i1a.cloudfront.net/live/smil:559270467550.smil/playlist.m3u8
 #EXTINF:-1, ECO TV PANAMA
 http://d3qojktl5f8bqo.cloudfront.net/live/smil:559270467550.smil/chunklist_b2179072.m3u8
 
-#EXTINF:-1,NexTV Panamá
-http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
-
-#EXTINF:-1,TVN CANAL 2  Panamá
+#EXTINF:-1,TVN CANAL 2 PANAMÁ
 http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish4/kLive/smil:0_6gox09ym_all.smil/32/chunklist.m3u8
 
-#EXTINF:-1,NexTV
+#EXTINF:-1,NexTV PANAMÁ
 http://190.102.61.118:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1,CDO Premium Chile
@@ -203,6 +200,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1,Virgin Radio
 http://fms.105.net:1935/live/virgin1/.m3u8?
 
+#EXTINF:-1,Music TV
+http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
 
 #EXTINF:-1,ONE TV
 http://server5.stweb.tv/radioone/live/playlist.m3u8
