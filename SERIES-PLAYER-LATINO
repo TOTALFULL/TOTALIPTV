@@ -1,0 +1,403 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/y2KF54M53ihULBNMRKVagtcprMT.jpg", 12 Monos
+http://live.tvplayerlatino.com/serie/63.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/3m83XvlgjIMeBtCHlIyLAsa2GZ1.jpg", 24: Just in Time
+http://live.tvplayerlatino.com/serie/179.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lfWmOx3mpKBg4anZNCbyOZGFnl4.jpg", Acapulco Shore
+http://live.tvplayerlatino.com/serie/139.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/d2Vl1ANHcVJTKog9GEYIqjqd7kC.jpg", Alf
+http://live.tvplayerlatino.com/serie/176.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/joYZflBtYAtn7CuVc4Jt4D8gB4Z.jpg", American Horror Story
+http://live.tvplayerlatino.com/serie/82.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lM0tNXNSJkf8acWWeHItyf1tsOy.jpg", Animaniacs
+http://live.tvplayerlatino.com/serie/155.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/nF3KKABpIEPMYs7SnkuKXKphoR3.jpg", Aquarius
+http://live.tvplayerlatino.com/serie/64.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg", Arrow
+http://live.tvplayerlatino.com/serie/10.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/N02jROGaZ04xesZsDeSYxskOnQ.jpg", Barbarians Rising
+http://live.tvplayerlatino.com/serie/41.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7h5PAXn7hHIzT7muxfn0lrafqfX.jpg", Bates Motel
+http://live.tvplayerlatino.com/serie/80.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/uC5a5SCy9siQejcSGpIehmm4Sya.jpg", Batman Beyond
+http://live.tvplayerlatino.com/serie/161.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/pszUuDLCwJ7idDAhfg7re7xmX9A.jpg", Batman: La serie animada
+http://live.tvplayerlatino.com/serie/97.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/hxTOuZxPxl9mv9nfoCvesnJZg40.jpg", Better Call Saul
+http://live.tvplayerlatino.com/serie/5.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/v2uZgfD5EXffkKwNNDXW8HED3Lq.jpg", Beyblade
+http://live.tvplayerlatino.com/serie/142.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/A4irKVsBpZaS2GALvcmQslRoKM2.jpg", Big Time Rush
+http://live.tvplayerlatino.com/serie/111.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/ysyKJTHBDiTmxsX7jr2LJq6METg.jpg", Billy y Mandy
+http://live.tvplayerlatino.com/serie/169.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/zqJxSzet2tAl34AiNj9zlfRWXx5.jpg", Black Sails
+http://live.tvplayerlatino.com/serie/180.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/Al5TNZHg4yU0zKQBkNMx5o4f9xH.jpg", Bleach
+http://live.tvplayerlatino.com/serie/58.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/b0b1biUGk2Ysvij4c9djFf4Ug7Z.jpg", Blindspot
+http://live.tvplayerlatino.com/serie/56.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/17ODCNbGrqNK25bzRhhQFmflBRf.jpg", Bob Esponja
+http://live.tvplayerlatino.com/serie/132.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/hYqFKoOZ54FOtL7r2WK6gQIMiQg.jpg", Bones
+http://live.tvplayerlatino.com/serie/158.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/kkI4AqxjefCQdjzOV6vc4cvYu4X.jpg", Boy Meets World
+http://live.tvplayerlatino.com/serie/167.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg", Breaking Bad
+http://live.tvplayerlatino.com/serie/4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/o40Wv2cCxbUUpBoDa7imlLE05mB.jpg", Brooklyn Nine-Nine
+http://live.tvplayerlatino.com/serie/68.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/sUWKr8Covd6Q9bWJhQgYg004iFq.jpg", CatDog
+http://live.tvplayerlatino.com/serie/146.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/a8s59EhuEX3NyKMo5D5VExttCeO.jpg", Chicago Fire
+http://live.tvplayerlatino.com/serie/156.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/iGaFCon7fJUuvHlolSoUDQKLfen.jpg", Club de Cuervos
+http://live.tvplayerlatino.com/serie/191.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7WbN38dgcAqecCNhfKY9Fxan45r.jpg", Colony
+http://live.tvplayerlatino.com/serie/42.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/utOLkQhxuhwN3PN0UEPnfhJnkrf.jpg", Coraje El Perro Cobarde
+http://live.tvplayerlatino.com/serie/114.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/uenHlMudMhFyRl8WOSsV6D8sME7.jpg", CSI: Cyber
+http://live.tvplayerlatino.com/serie/25.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/9brFwnnRmnHykxcrvn7ez79dXb6.jpg", CSI: Miami
+http://live.tvplayerlatino.com/serie/130.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/vqbm7lfGnfrn42HvzIPOSHJecE3.jpg", Daniel el travieso
+http://live.tvplayerlatino.com/serie/151.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/f3mn50yhjdCttmUdeGaGemf31Po.jpg", Danny Phantom
+http://live.tvplayerlatino.com/serie/200.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/itrCovJkuH7I8SJ98jxrInnwm2y.jpg", Daredevil
+http://live.tvplayerlatino.com/serie/15.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7zGhBLxCxfp7uj760AXFbk9MvyR.jpg", DC Legends of Tomorrow
+http://live.tvplayerlatino.com/serie/35.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/nhIkKuOpOXOE6ud0naCHTjRoOwq.jpg", Death Note
+http://live.tvplayerlatino.com/serie/62.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/ydmfheI5cJ4NrgcupDEwk8I8y5q.jpg", Dexter 
+http://live.tvplayerlatino.com/serie/195.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6dapA7clhR3yEWYZuabtBMes3Hs.jpg", Digimon
+http://live.tvplayerlatino.com/serie/91.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/mKEEaLNuVTJrkX52KBtLjHOSHfQ.jpg", Dinosaurios
+http://live.tvplayerlatino.com/serie/93.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/jw1IR7N9n486GFWannAmAtrQZu9.jpg", Don Gato y su Pandilla
+http://live.tvplayerlatino.com/serie/171.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/vNDgDPd4C9GvYBkMD1DSpCvgzeU.jpg", Doraemon
+http://live.tvplayerlatino.com/serie/177.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/nli4nyzOIN9s5eOaGmPzHyVNnk0.jpg", Dos hombres y medio
+http://live.tvplayerlatino.com/serie/73.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lxSzRZ49NXwsiyHuvMsd19QxduC.jpg", Dr House
+http://live.tvplayerlatino.com/serie/67.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/3wx3EAMtqnbSLhGG8NrqXriCUIQ.jpg", Dragon Ball
+http://live.tvplayerlatino.com/serie/34.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/dlj0hRaDa469SfqurlsWSR7QAhw.jpg", Dragon Ball GT
+http://live.tvplayerlatino.com/serie/45.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg", Dragon Ball Super
+http://live.tvplayerlatino.com/serie/31.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/jaMGqTzmzMqKG6JQwwQD1r2wTwW.jpg", Dragon Ball Z
+http://live.tvplayerlatino.com/serie/44.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6Dr4dcrheGN83MXOokxDubj8oj0.jpg", Drake & Josh
+http://live.tvplayerlatino.com/serie/69.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/w99iXRRmgbbxT3Sljn3re5rfxGs.jpg", Ed, Edd y Eddy
+http://live.tvplayerlatino.com/serie/181.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6t6UNegLwmoRZvWAbA97Wfg1zhf.jpg", El Cartel De Los Sapos
+http://live.tvplayerlatino.com/serie/102.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/cMJH4BFDGACqYvDkCXbxxXYqyhT.jpg", El Chapulín Colorado
+http://live.tvplayerlatino.com/serie/83.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/eIRT7ElW9W0Fe4yD2Mw2hGfP1VW.jpg", El Chavo del Ocho
+http://live.tvplayerlatino.com/serie/85.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6hUebVnQQrUWjf95LBnb6hQ1iO5.jpg", El Coyote y el Correcaminos
+http://live.tvplayerlatino.com/serie/150.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7hAlNh1EFqcokOpwwHai1DEi4Ny.jpg", El Infiltrado
+http://live.tvplayerlatino.com/serie/23.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/zuCyg83BcuKUtT2EfDTLbxrOwhp.jpg", El laboratorio de Dexter
+http://live.tvplayerlatino.com/serie/198.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/e8fMS76ougtQcd67TBidB6w1Zf3.jpg", El Manual De Supervivencia Escolar de Ned
+http://live.tvplayerlatino.com/serie/115.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/gdkkBruycNl9NlHFnxRuqVHfsvt.jpg", El Mentalista
+http://live.tvplayerlatino.com/serie/186.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/kfk8TIkzZQjPeCJzkorEenQ856Z.jpg", El Precio de la Historia
+http://live.tvplayerlatino.com/serie/196.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/qQCbe0QwS0FKBOwMdf6MblJbqst.jpg", El Principe del Rap
+http://live.tvplayerlatino.com/serie/27.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/dqrGzmoN8vktDE2ocIREGBMASyR.jpg", El Señor de los Cielos
+http://live.tvplayerlatino.com/serie/6.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/eMitdx0OnmAOu0F3360ramOg8Ja.jpg", Escalofríos
+http://live.tvplayerlatino.com/serie/174.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/nuVDu4A7eowIeP0G3EanZnv1dm5.jpg", Estoy en la Banda
+http://live.tvplayerlatino.com/serie/193.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/yYTUUa4hrpOUyt5MeJDJsuVFZY.jpg", Expendientes X
+http://live.tvplayerlatino.com/serie/2.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/zf2OuhxukQB4NbMBlCeVohoLZEa.jpg", Fantasías animadas de ayer y hoy
+http://live.tvplayerlatino.com/serie/197.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/g9cY7XZaV9Id5HCaSnNGw4oLXR1.jpg", Fear The Walking Dead 
+http://live.tvplayerlatino.com/serie/29.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/wMFZPYHT2z0LHQo38DNAsaKkrcs.jpg", FullMetal Alchemist
+http://live.tvplayerlatino.com/serie/119.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/yH0kMqMK8AMtt0aNNE2NEIUiFgq.jpg", G.I. Joe
+http://live.tvplayerlatino.com/serie/160.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6HTGPU0AZ6esnQLENLIbNRNjwoC.jpg", Gárgolas: Héroes Góticos
+http://live.tvplayerlatino.com/serie/126.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/og6N93RlTS1CCbQOMqk1B47Ud2T.jpg", Glee
+http://live.tvplayerlatino.com/serie/157.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/kmDO0VGOOUsRtU5sZDG6uo2quBY.jpg", God Eater
+http://live.tvplayerlatino.com/serie/136.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/z2iR0vmuoEU5eL2ONwygDuzzlOy.jpg", Gotham
+http://live.tvplayerlatino.com/serie/19.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/oGsgxjeZ9rd20eCJsGSMGgWvl4P.jpg", Gravity Falls
+http://live.tvplayerlatino.com/serie/159.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/aI4bobthe7OORg4s2zjm0f0FdC1.jpg", Grey's Anatomy
+http://live.tvplayerlatino.com/serie/190.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/efrDcB26bugOroNshsPSrPEwJAI.jpg", Grimm
+http://live.tvplayerlatino.com/serie/187.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/kArcGHvTb7m1v6RFHdU40jpiGZD.jpg", Hannibal
+http://live.tvplayerlatino.com/serie/21.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/ywtLp5duLuSaxpAoIvD2bwdBJn8.jpg", Happy Tree Friends
+http://live.tvplayerlatino.com/serie/144.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6FJWfH1JB65uUyCFsjduvB1vLy.jpg", Hasta que te conocí
+http://live.tvplayerlatino.com/serie/47.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/5lcbl0p7fGjrrwSXpeK2cqss0MV.jpg", He-Man y los Amos del Universo
+http://live.tvplayerlatino.com/serie/98.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lrIsAhSo9weWWQlU1OQrOAGzs9i.jpg", Hey Arnold!
+http://live.tvplayerlatino.com/serie/170.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/46JABu1MukQdelv3V9PSUb2dm08.jpg", Highschool Of The Dead
+http://live.tvplayerlatino.com/serie/135.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/bZpF5g6u0np0AMYXkug4aJSH3xI.jpg", Hora de aventura
+http://live.tvplayerlatino.com/serie/18.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6AquMx9MoJZTaZIR2AokSDATFCt.jpg", House of Cards
+http://live.tvplayerlatino.com/serie/7.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/v8aAdSX83NP0QPoa88lWTrveCJp.jpg", Hunters
+http://live.tvplayerlatino.com/serie/55.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/fHod858uxwyEaNPOzwGiwzMUKGS.jpg", iCarly
+http://live.tvplayerlatino.com/serie/107.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/nWboOfpbX2r1GwWYc9jKDRBES3X.jpg", InuYasha
+http://live.tvplayerlatino.com/serie/79.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/qLChCIiUhEDZQ5CMsPm6fhMeCwB.jpg", Johnny Bravo
+http://live.tvplayerlatino.com/serie/104.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/36tqIH6BPUg7KufHNJEwyeVIpO.jpg", Juego de Tronos 
+http://live.tvplayerlatino.com/serie/3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/qsbksfOWNb6QEHBfvNriH2Fmqj7.jpg", Kenan & Kel
+http://live.tvplayerlatino.com/serie/75.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6qOyEtlWmgHCcw6G8x9jwzZOlcq.jpg", La Casa de los Dibujos
+http://live.tvplayerlatino.com/serie/194.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/13Wixwkhy0d3ekWg5jso5iOoKCe.jpg", La Familia Peluche
+http://live.tvplayerlatino.com/serie/78.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/p2OtibdOlHXk0jGnvAFNanS8MU5.jpg", La Hormiga Atómica
+http://live.tvplayerlatino.com/serie/164.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/fE4yrPsZA5j8HyoQ5mObfetNlP1.jpg", La isla de Gilligan
+http://live.tvplayerlatino.com/serie/123.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/5KfFnPRIgxan2eJ7XxMkucpq8VI.jpg", La Ley y el Orden: Unidad de víctimas especiales
+http://live.tvplayerlatino.com/serie/110.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7WFNlLwLTTo5GDS5cYszisBFPMf.jpg", La pantera rosa
+http://live.tvplayerlatino.com/serie/188.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/mmTT0U39RARFE2sJPEvppewZarC.jpg", La patrulla canina
+http://live.tvplayerlatino.com/serie/122.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/jJL8y0OIAdcAACLs6r7jB0lSvzy.jpg", La pequeña Lulú
+http://live.tvplayerlatino.com/serie/143.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/vyf4SCbV6pifTZdKobDsclNDubk.jpg", La Reina del Sur
+http://live.tvplayerlatino.com/serie/103.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/wQoosZYg9FqPrmI4zeCLRdEbqAB.jpg", La teoría del Big Bang 
+http://live.tvplayerlatino.com/serie/9.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/zXPv3Hcfskio8fTIYxSSVbmZfez.jpg", La Vaca y el Pollito
+http://live.tvplayerlatino.com/serie/96.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/p3DrIXXeP5m0TQdS2PFXHB9aGm0.jpg", La viuda negra
+http://live.tvplayerlatino.com/serie/165.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/nh0jlRLQ8Wz2Bc57ukxsd3cH8Us.jpg", Las Chicas Superpoderosas
+http://live.tvplayerlatino.com/serie/147.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/aurZJ8UsXqhGwwBnNuZsPNepY8y.jpg", Las crónicas de Shannara
+http://live.tvplayerlatino.com/serie/26.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/ieXc6ryp53DGOv9X3PFhTvTtLau.jpg", Limitless
+http://live.tvplayerlatino.com/serie/70.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/xxQFyNCMG9Mp6dE0n6xZTMajlhS.jpg", Los 100 - The Hundred
+http://live.tvplayerlatino.com/serie/49.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/gBU4qmFMaO1uBnuG0WuOqM4gzm9.jpg", Los Años Maravillosos
+http://live.tvplayerlatino.com/serie/94.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/rkabEZu61HTJWdR400CgJCF4Sti.jpg", Los Backyardigans
+http://live.tvplayerlatino.com/serie/120.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/8x3zGPqIir80f4uF8EQQhwc1dhp.jpg", Los Caballeros del Zodiaco
+http://live.tvplayerlatino.com/serie/50.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/bm84DVJivv8kcmlg0wF8toUfhrl.jpg", Los Caballeros del Zodiaco: Alma de Oro
+http://live.tvplayerlatino.com/serie/88.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/uiwmyDeMXwe2sJawqV7ouGmsnv0.jpg", Los Caballeros del Zodiaco: Hades - Campos Eliseos
+http://live.tvplayerlatino.com/serie/53.m3u
+#EXTINF:-1 tvg-logo="http://puu.sh/qS8bI/73601b7717.jpg", Los Caballeros del Zodiaco: Hades - Saga del Infierno
+http://live.tvplayerlatino.com/serie/51.m3u
+#EXTINF:-1 tvg-logo="http://puu.sh/qS82d/115ba1a50f.jpg", Los Caballeros del Zodiaco: Hades - Saga el Santuario
+http://live.tvplayerlatino.com/serie/52.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/1aaBO0y6eQs7TM5iZs7qp7RmX46.jpg", Los Caballeros del Zodiaco: Omega
+http://live.tvplayerlatino.com/serie/87.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/faZKMT856LWSnzgVh3L4BMazGmz.jpg", Los cuentos de la cripta
+http://live.tvplayerlatino.com/serie/140.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/yYF7h5yUcpmta3KYpBvokw04Gev.jpg", Los Heroes del Norte
+http://live.tvplayerlatino.com/serie/95.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/jyPNFIfDbU6YN4EGutGeFTTZcl2.jpg", Los Locos Addams
+http://live.tvplayerlatino.com/serie/131.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/ktzefGtGUwMGAmN1Bna1oTeLSnX.jpg", Los Picapiedra
+http://live.tvplayerlatino.com/serie/152.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/yTZQkSsxUFJZJe67IenRM0AEklc.jpg", Los Simpson
+http://live.tvplayerlatino.com/serie/32.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/AcVhbN8i7IH4Ho9BasORSNUgiIp.jpg", Los Simuladores
+http://live.tvplayerlatino.com/serie/129.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/2n9ISOKbxnhV2hLQgcVhnYjvljn.jpg", Los Supersónicos
+http://live.tvplayerlatino.com/serie/112.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/cP6vcj34NiLOO7EQUbm3IEFUgZB.jpg", Los tres Chiflados
+http://live.tvplayerlatino.com/serie/116.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/zWceeSGKhdPgR0QNWBVKgJlJXzZ.jpg", Los verdaderos cazafantasmas
+http://live.tvplayerlatino.com/serie/178.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/jyGspygDXJMydTOJj7iWNx9Elyd.jpg", Lost
+http://live.tvplayerlatino.com/serie/184.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/cYsq4Tog81NmlEoKfCObtPmx3Ar.jpg", MacGyver
+http://live.tvplayerlatino.com/serie/166.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/8I6xRdYBZhmGV0cKBGZZSham12T.jpg", Malcolm El De En Medio
+http://live.tvplayerlatino.com/serie/71.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/zNb6etwR0mi92YsoYVx6kePgOHs.jpg", Marco Polo
+http://live.tvplayerlatino.com/serie/65.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/n82soKV5XS5iYXF60eDO84kLPF3.jpg", Marvel Agentes de Shield
+http://live.tvplayerlatino.com/serie/24.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/mQWBExOnHrGVsjkpWczJjo6bhZy.jpg", Marvels Agent Carter 
+http://live.tvplayerlatino.com/serie/22.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/8a7e2GNpMnjI2hgRZH3jq2c7ffv.jpg", Marvels Jessica Jones
+http://live.tvplayerlatino.com/serie/36.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/AupeKCHW0oDY3BSrwU0JGouqHxq.jpg", Masha y el Oso
+http://live.tvplayerlatino.com/serie/86.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/1zi81irOALVzk06s8GOiCsXscfO.jpg", Mazinger Z
+http://live.tvplayerlatino.com/serie/105.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/jpV5GWRe0hjZBbx1kPFISvH8QxI.jpg", Mr. Robot
+http://live.tvplayerlatino.com/serie/16.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/aKoUaCttmQUK1aFjN2ixnoYqv1s.jpg", Mucha Lucha
+http://live.tvplayerlatino.com/serie/145.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/45a9w1xxOSY9aTRnOSSl3nvjfwt.jpg", My name is Earl 
+http://live.tvplayerlatino.com/serie/141.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/dSS0jcSlVhAYwCBiHkYe2vUDt87.jpg", Narcos
+http://live.tvplayerlatino.com/serie/84.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lTVhwFcSHqN0Xv8HLxDHILtrwfX.jpg", Naruto
+http://live.tvplayerlatino.com/serie/43.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/4JmrCB3KTWnBViNzH1LNn2wvdPD.jpg", Naruto Shippuden
+http://live.tvplayerlatino.com/serie/54.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/yMZRSZxsOzbemoBpapeJCsFwlAc.jpg", Nosotros los Guapos
+http://live.tvplayerlatino.com/serie/99.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/iXcaYJZlK2uDnLiTt5HlY2a0vuL.jpg", One-Punch Man
+http://live.tvplayerlatino.com/serie/137.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/r9TY0FvfSdeF4DZWMTtKNNQKD0J.jpg", Outcast
+http://live.tvplayerlatino.com/serie/38.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/nC2qpFcGadj3ckhqsKZseZPXhBK.jpg", Pablo Escobar El Patron del Mal
+http://live.tvplayerlatino.com/serie/20.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/gBGUL1UTUNmdRQT8gA1LUV4yg39.jpg", Padre de Familia
+http://live.tvplayerlatino.com/serie/77.m3u
+#EXTINF:-1 tvg-logo="http://puu.sh/razL0/f61b1c8f5a.jpg", Peleas UFC
+http://live.tvplayerlatino.com/serie/90.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/fMEUrnUZTuyO7NgUc5Nn5yEWrgK.jpg", Peppa Pig
+http://live.tvplayerlatino.com/serie/89.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/eLew1HttT40izNwLfdhEyx6zFBd.jpg", Pinky y Cerebro
+http://live.tvplayerlatino.com/serie/149.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/p39qTKsBCzGGwGIv5TsRXBSeJNn.jpg", Pocoyo
+http://live.tvplayerlatino.com/serie/192.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/2pcTUs20ysCdA6DZclaPmGXD6ph.jpg", Pokémon
+http://live.tvplayerlatino.com/serie/30.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/impYpdYcK3GqHuCtaSbT2ULL7JU.jpg", Power Rangers
+http://live.tvplayerlatino.com/serie/128.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/v0cXwktLM50DmcznAByz9AOTzu7.jpg", Prison Break
+http://live.tvplayerlatino.com/serie/113.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/4qq03GhGl1A7JAPEFAuh0b2foxn.jpg", Quantico
+http://live.tvplayerlatino.com/serie/28.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/4qq03GhGl1A7JAPEFAuh0b2foxn.jpg", Quantico
+http://live.tvplayerlatino.com/serie/66.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/uD1Nj4oo4MYsojOmnNHiBofsegY.jpg", Ranma 1/2
+http://live.tvplayerlatino.com/serie/127.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/5l6q0eZJWLPBbm53PGvXGGY2jmT.jpg", Rebelde
+http://live.tvplayerlatino.com/serie/183.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/9igfd1tTGOvbXffbpbClApZn76h.jpg", Robotech
+http://live.tvplayerlatino.com/serie/124.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6i62EVoyGxKjI21DS8I53nxKToG.jpg", Rugrats: Aventuras en Pañales
+http://live.tvplayerlatino.com/serie/153.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/8bwNu5JlRQyi6j6JO7UF42MAgX.jpg", Sabrina, la bruja adolescente
+http://live.tvplayerlatino.com/serie/182.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/22JUKtzAsX83KgGk0WAeZ20YzLC.jpg", Sabrina: La serie animada
+http://live.tvplayerlatino.com/serie/154.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/61FyJ3EJ9FDCkgwkZI7qFKCUcBZ.jpg", Sailor Moon Crystal
+http://live.tvplayerlatino.com/serie/199.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/oj5C2aCEAkhmYO17LfemrkYWB8t.jpg", Sakura Cardcaptor
+http://live.tvplayerlatino.com/serie/148.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/5gyot4yLfhvGvnb5zAZ6BsIjP7J.jpg", Sam y Cat
+http://live.tvplayerlatino.com/serie/106.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/n4IHrbb1XEU3vDeSpRGsAG0HlGo.jpg", Scooby Doo Misterio a la orden
+http://live.tvplayerlatino.com/serie/162.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lMzclYREKmM5foluxGGf31UZmS8.jpg", Scream
+http://live.tvplayerlatino.com/serie/39.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/vHXZGe5tz4fcrqki9ZANkJISVKg.jpg", Sherlock
+http://live.tvplayerlatino.com/serie/11.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/3d2DqZuKFcUfvECdwVpGvimEpKD.jpg", Shingeki no Kyojin
+http://live.tvplayerlatino.com/serie/133.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/elsmbLZDFYF37r4VYT0RMRPO03n.jpg", Silicon Valley
+http://live.tvplayerlatino.com/serie/81.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/dPhQACs9QR5mwUikRKltCZATdxJ.jpg", Slam Dunk
+http://live.tvplayerlatino.com/serie/138.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/c4wV2SmQX5DGAMfInIrLJMTJo5B.jpg", Sleepy Hollow
+http://live.tvplayerlatino.com/serie/14.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7kN4ye3NHWO27J2WnepYZ9Jpt8R.jpg", Smallville
+http://live.tvplayerlatino.com/serie/92.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/v9zc0cZpy5aPSfAy6Tgb6I1zWgV.jpg", South Park
+http://live.tvplayerlatino.com/serie/57.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/18FWPmsh2dULwMyWGjNDCUsmGRM.jpg", Spartacus
+http://live.tvplayerlatino.com/serie/17.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/esKFbCWAGyUUNshT5HE5BIpvbcL.jpg", Stranger Things
+http://live.tvplayerlatino.com/serie/40.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/8tTnClS98bCthJsSfbScjYJZcWA.jpg", Súper Campeones
+http://live.tvplayerlatino.com/serie/72.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/pFutE9AX2B7tRnlS2RZIapQtMoV.jpg", Super Campeones Rumbo Al Mundial 2002
+http://live.tvplayerlatino.com/serie/74.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/2d7KcJeK3eq60hZ5cG8SrwaDncd.jpg", Super Shore
+http://live.tvplayerlatino.com/serie/101.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/o7tHx7YO8sCDBSXyJ1VnRxQgKxF.jpg", Supergirl
+http://live.tvplayerlatino.com/serie/33.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lUFK7ElGCk9kVEryDJHICeNdmd1.jpg", The Flash
+http://live.tvplayerlatino.com/serie/12.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/oL4thQWSF8aoLtdzHoRos5zeVlq.jpg", The Last Ship
+http://live.tvplayerlatino.com/serie/13.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/epouilElDvE9FggEmIcArpuzaq.jpg", The Magicians
+http://live.tvplayerlatino.com/serie/46.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7FBeSojeyiTMgIxm6QPUVzpDP93.jpg", The Night Of
+http://live.tvplayerlatino.com/serie/48.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/jZn7dEHRRjXcT43D9GMHxzASDef.jpg", The Vampire Diaries
+http://live.tvplayerlatino.com/serie/185.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg", The Walking Dead
+http://live.tvplayerlatino.com/serie/1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/yu1KPuCSes0wfCpqYs4gH1Sse1G.jpg", ThunderCats: Los felinos cósmicos
+http://live.tvplayerlatino.com/serie/100.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/gQAfsOea0j1QhldVqw8qRV7LyK3.jpg", Tiny Toons
+http://live.tvplayerlatino.com/serie/175.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/cCrzW4RDzfpa8jO7xxdNIlh2FMH.jpg", Tiro de Gracia
+http://live.tvplayerlatino.com/serie/118.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/2Hfse2hCuQiRGannilc4Peh6PwZ.jpg", Tom y Jerry
+http://live.tvplayerlatino.com/serie/172.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/egrBNjbMKbUao19dJcSNiw4xlft.jpg", True Detective
+http://live.tvplayerlatino.com/serie/117.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/30LvVt2Wz9XwucPqkwRZxJmjRgw.jpg", Ushio To Tora
+http://live.tvplayerlatino.com/serie/134.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/2b4DCmJXDHbAMqnUyHiNC9WlkIX.jpg", Vecinos
+http://live.tvplayerlatino.com/serie/76.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/lLFx304R9sgDIqFWSlYsYngvSJF.jpg", Victorious
+http://live.tvplayerlatino.com/serie/109.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/mBDlsOhNOV1MkNii81aT14EYQ4S.jpg", Vikingos
+http://live.tvplayerlatino.com/serie/168.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6kJkSG6XqkfTcX1UxLoQU3ps23N.jpg", Voltron
+http://live.tvplayerlatino.com/serie/121.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/dlGyl2HuB1RFHhMtHOI8WKnR5qY.jpg", Wayward Pines
+http://live.tvplayerlatino.com/serie/37.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/cDAy9vmtrpzzyiLmnlRKHPCzLGj.jpg", X-Men
+http://live.tvplayerlatino.com/serie/125.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/sM653hLpCQRFHXIpvywkdTuE2WL.jpg", Xena: La princesa guerrera
+http://live.tvplayerlatino.com/serie/189.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/ApQtJCTGsWVHR7T8ULFe2EYlgYb.jpg", Yu-Gi-Oh! Duel Monsters
+http://live.tvplayerlatino.com/serie/59.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/7V7SPLJky8yh7MsaOF7IMEIKSBg.jpg", Yu-Gi-Oh! GX
+http://live.tvplayerlatino.com/serie/60.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/ihiJZxZBhyWtdGxshLgsAevTgwK.jpg", Yu-Gi-Oh! Season Zero
+http://live.tvplayerlatino.com/serie/61.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/to1Ldr535A7LtCyitOalk2xu7YY.jpg", Z Nation
+http://live.tvplayerlatino.com/serie/8.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/eOdB8mDwDBL5s22BknRRTPMlmSW.jpg", Zoey 101
+http://live.tvplayerlatino.com/serie/108.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/vujHJj59TiasHhzrSWWKiZjSmVX.jpg", ¿Le temes a la oscuridad?
+http://live.tvplayerlatino.com/serie/173.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/qF9FRSmb4d3gDXeCVemJdQZq9gp.jpg", ¿Qué hay de nuevo, Scooby-Doo?
+http://live.tvplayerlatino.com/serie/163.m3u
+
