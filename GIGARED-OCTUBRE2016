@@ -84,15 +84,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:0 group-title="Z etiquetas",[B][COLOR cyan]***DEPORTES***[/COLOR][/B]
 
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_16978.png",CDF PREMIUN 720 ZR
-http://zialcobra.dyndns.org:8000/live/chile/chile/828.ts   
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/CDF_2015.png",CDF PREMIUN ZR
-http://zialcobra.dyndns.org:8000/live/chile/chile/274.ts   
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/CDF_2015.png",CDF BASICO ZR
-http://zialcobra.dyndns.org:8000/live/chile/chile/422.ts 
-  
+ 
 #EXTINF:0, CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
@@ -117,17 +109,6 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:0,  Poker Central
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logos/logorio.png", Claro Sport 1
-http://ep09.11amxgen.rio.obsovp.tv/ovp.v33.a/riohd:v33@20160806/chunklist_b1296000_ps20160806115459_DVR.m3u8
-
-
-
-#EXTINF:-1,Tycsports
-http://162.243.175:8000/live/IPTV/IPTV/57.m3u8 
-
-#EXTINF:-1,DXTV
-http://162.243.175:8000/live/IPTV/IPTV/57.m3u8 
 
 #EXTINF:0 group-title="Z etiquetas",[B][COLOR cyan]***CANALES INFANTILES***[/COLOR][/B]
 
