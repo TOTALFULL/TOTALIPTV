@@ -4,8 +4,6 @@
 
 #EXTINF:0,A&E
 http://190.57.234.166/V4/6/1.m3u8
-#EXTINF:0,Nat Geo.
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:0,Discovery Civilization
 http://190.57.234.166/V0/6/1.m3u8
 #EXTINF:0,Discovery Science
