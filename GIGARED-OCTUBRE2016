@@ -56,8 +56,6 @@ http://190.57.234.166/V4/3/1.m3u8
 #EXTINF:0 tvg-logo="http://tecnotv.info/logos/history%20hd.png",History channel Argentina
 http://190.57.234.166/V4/3/2.m3u8
 
-#EXTINF:-1 tvg-logo="http://tecnotv.info/logos/history%20hd.png",History HD
-http://latino-webtv.ml:8880/tpmariocs/CANAL353/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://tecnotv.info/logos/discovery%20civilization.png",Discovery Civilization LATINO
 http://190.57.234.166/V0/6/1.m3u8?
