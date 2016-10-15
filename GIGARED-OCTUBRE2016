@@ -39,7 +39,7 @@ http://190.57.234.166/V4/7/1.m3u8?
 #EXTINF:-1 tvg-logo="http://welovesoaps.com/wls28/mundofox.jpg",Mundo Fox Mexico
 http://190.57.234.166/V0/3/1.m3u8
 
-#EXTINF:0,fOX 1 
+#EXTINF:0,FOX 1 
 http://190.57.234.166/V0/1/1.m3u8 
 
 #EXTINF:0,FOX 1  op.2
@@ -84,7 +84,9 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:0 group-title="Z etiquetas",[B][COLOR cyan]***DEPORTES***[/COLOR][/B]
 
- 
+#EXTINF:0 group-title="GigaRed",Fox Sports
+http://190.57.234.166/V0/10/1.m3u8
+  
 #EXTINF:0, CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
