@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1tvg-logo="http://www.garuyo.com/web/media/images/images/1prohibido1.jpg",Nuestro Video Prohibido
+http://www.spruto.tv/get_file/1/e20fc882e24b3cfa14dedf83ad784efc/86000/86161/86161.mp4
+
 #EXTINF:-1tvg-logo="http://i1.wp.com/releasedateportal.com/wp-content/uploads/2015/09/ip-man-3.jpg",IP Man 3 HD 1080  Audio Latino
 http://www.spruto.tv/get_file/6/088d4e18f1d18e35903656855a42087d/192000/192309/192309.mp4
 
