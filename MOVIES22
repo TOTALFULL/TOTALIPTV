@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1, tvg-logo="https://dl.dropboxusercontent.com/s/x3i5cyjg33bhbkj/BAN1.png?dl=0" group-title="IPTV TOTAL"
-
 #EXTINF:-1  tvg-logo="http://www.navymwr.org/assets/movies/images/img-popcorn.png" group-title="IPTVTOTAL",DIA DE LA INDEPENDENCIA 2 LAT 
 http://www.spruto.tv/get_file/8/d16d9e45e8410d0ec98969f813710458/205000/205337/205337.mp4
 #EXTINF:-1  tvg-logo="http://www.navymwr.org/assets/movies/images/img-popcorn.png" group-title="IPTVTOTAL",ASTROBOY
