@@ -1,7 +1,7 @@
 #EXTM3U  
 
 
-#EXTINF:0 group-title="Quantico"[B][COLOR yellow]<====> Quantico. <====>[/COLOR][/B]
+#EXTINF:-1 tvg-logo="" group-title="Los Simpson", [B][COLOR yellow]<====> Quantico <====>[/COLOR][/B]
 #EXTINF:-1
 #EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/quantico_tv_series-212551692-large.jpg" group-title="Quantico", Quantico 1x1
 http://maxibodegasgb.com/zonalibre/series/quantico/Quantico1x1.mp4
@@ -49,7 +49,7 @@ http://maxibodegasgb.com/zonalibre/series/quantico/Quantico1x21.mp4
 http://maxibodegasgb.com/zonalibre/series/quantico/Quantico1x22.mp4
 
 
-#EXTINF:0 group-title="Daredevil"
+#EXTINF:-1 tvg-logo="" group-title="Los Simpson", [B][COLOR yellow]<====> Daredevil <====>[/COLOR][/B]
 #EXTINF:1,
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Daredevil-season-1.jpg" group-title="Daredevil", Daredevil 1x1
 http://www.spruto.tv/get_file/8/2d33d27edf4bf695dd54397c0fae1770/220000/220729/220729.mp4
@@ -78,7 +78,7 @@ https://openload.co/f/hl6jFE5ott8/Daredevil_1x8-1080p-www.DescargateloCorp.com.m
 #EXTINF:-1 tvg-logo="" group-title="Daredevil", Daredevil 1x13
 
 
-#EXTINF:0 group-title="Game Of Thrones"[B][COLOR white]<====> Game Of Thrones <====>[/COLOR][/B]
+#EXTINF:-1 tvg-logo="" group-title="Los Simpson", [B][COLOR yellow]<====> Games Of Thrones <====>[/COLOR][/B]
 #EXTINF:1,
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/gameofthrones/images/2/2c/Season_1_Poster.jpg/revision/latest?cb=20110406150536" group-title="Game Of Thrones", Game Of Thrones 1x01
 http://maxibodegasgb.com/zonalibre/series/got/01x01.mp4
@@ -161,7 +161,7 @@ http://maxibodegasgb.com/zonalibre/series/got/05x09.mp4
 #EXTINF:-1 tvg-logo="https://cdn2.vox-cdn.com/uploads/chorus_asset/file/3454496/GOT_S5_-_Poster.0.jpg" group-title="Game Of Thrones", Game Of Thrones 5x10
 http://maxibodegasgb.com/zonalibre/series/got/05x10.mp4
 
-#EXTINF:0 group-title="Gotham"[B][COLOR red]<====> Gotham <====>[/COLOR][/B]
+#EXTINF:-1 tvg-logo="" group-title="Los Simpson", [B][COLOR yellow]<====> Gothan <====>[/COLOR][/B]
 #EXTINF:1,
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/gotham-inc/images/d/d2/Season_1_poster.png/revision/latest?cb=20150830102446" group-title="Gotham", Gotham 1x01
 http://maxibodegasgb.com/zonalibre/series/gotham/Gota101.mp4
