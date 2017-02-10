@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1, COS 1 PANAMA
-http://drzpnluud0g9z.cloudfront.net/live/smil:559270467550.smil/chunklist_b2179072.m3u8
+http://wpc.42af9.deltacdn.net/8042AF9/cableonda2/live/smil:559270467550.smil/chunklist_b233472.m3u8
 
 
 #EXTINF:-1, COS 2 PANAMA
-http://d1zzs59ub7i1a.cloudfront.net/live/smil:559270467550.smil/chunklist_b2179072.m3u8
+http://wpc.42af9.deltacdn.net/8042AF9/cableonda3/live/smil:559270467550.smil/chunklist_b1359872.m3u8
 
 #EXTINF:-1, ECO TV PANAMA
-http://d3qojktl5f8bqo.cloudfront.net/live/smil:559270467550.smil/chunklist_b2179072.m3u8
+http://wpc.42af9.deltacdn.net/8042AF9/cableonda1/live/smil:559270467550.smil/chunklist_b233472.m3u8
 
 #EXTINF:-1,NexTV PANAMÁ
 http://190.102.61.118:1935/live/livestream/playlist.m3u8
