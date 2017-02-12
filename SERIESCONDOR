@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1tvg-logo="http://vignette2.wikia.nocookie.net/12-monkeys-tv/images/d/de/12_Monkeys_Logo.jpg/revision/latest/scale-to-width-down/350?cb=20160121192811" type="12MONKEY",capitulo 1
+#EXTINF:-,12MONKEY (1x01)
 http://condor1726.dedicatedpanel.com/series/12%20Monkeys/Doce_Simios_1x01%20(1).mkv
 
 #EXTINF:-1tvg-logo="http://vignette2.wikia.nocookie.net/12-monkeys-tv/images/d/de/12_Monkeys_Logo.jpg/revision/latest/scale-to-width-down/350?cb=20160121192811" type="12MONKEY",capitulo 2
