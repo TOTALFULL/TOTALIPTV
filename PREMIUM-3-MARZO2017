@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LA RED HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/La_Red.svg/1280px-La_Red.svg.png" group-title="CHILE",LA RED HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="UCV HD" tvg-logo="http://www.ucvmedios.cl/imagenes/logo-ucv-200.png" group-title="CHILE",UCV HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/118.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="CHILE",TVN HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/117.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/5/51/LogoMega2015.png/revision/latest?cb=20151117223345&path-prefix=es" group-title="CHILE",MEGA HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="http://www.uss.cl/wp-content/uploads/2016/05/chv.png" group-title="CHILE",CHV
+http://144.217.70.189:8000/live/iptvchile/demolibre/149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/Logo13.png/revision/latest?cb=20160609180608" group-title="CHILE",Canal 13
+http://144.217.70.189:8000/live/iptvchile/demolibre/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 FHD H265" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="DEPORTES",CANAL 13 FHD H265
+http://144.217.70.189:8000/live/iptvchile/demolibre/143.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 FHD H264" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="CHILE",CANAL 13 FHD H264
+http://144.217.70.189:8000/live/iptvchile/demolibre/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/250px-24_Horas_TVN_alt.png" group-title="CHILE",24 Horas
+http://144.217.70.189:8000/live/iptvchile/demolibre/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="CHILE",CNN CHILE
+http://144.217.70.189:8000/live/iptvchile/demolibre/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIU TV" tvg-logo="http://niu.cl/wp-content/uploads/2016/07/logo.png" group-title="CHILE",NIU TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/154.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teletrack HD" tvg-logo="http://www.teletrak.cl/imagenes/logo2.png" group-title="CHILE",Teletrack HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA FUL HD H265" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/5/51/LogoMega2015.png/revision/latest?cb=20151117223345&path-prefix=es" group-title="CHILE",MEGA FUL HD H265
+http://144.217.70.189:8000/live/iptvchile/demolibre/147.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD 720P H264" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/5/51/LogoMega2015.png/revision/latest?cb=20151117223345&path-prefix=es" group-title="CHILE",MEGA HD 720P H264
+http://144.217.70.189:8000/live/iptvchile/demolibre/146.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="http://foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_16978.png" group-title="DEPORTES",CDF HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="DEPORTES",Fox Sports
+http://144.217.70.189:8000/live/iptvchile/demolibre/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox Sport 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/3.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3" tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="DEPORTES",FOX SPORT 3
+http://144.217.70.189:8000/live/iptvchile/demolibre/70.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
+http://144.217.70.189:8000/live/iptvchile/demolibre/11.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="DEPORTES",ESPN 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/10.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="DEPORTES",ESPN 3
+http://144.217.70.189:8000/live/iptvchile/demolibre/9.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://2.bp.blogspot.com/-u1R-pryM6rA/WEGZrTlPj9I/AAAAAAAAD3k/1IUfLSQDyZURbL2Nvs83cAbk3OO9m0tTgCLcB/s1600/goltv.png" group-title="DEPORTES",GOL TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/126.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT SD" tvg-logo="http://www.tycsports.com/sites/default/files/nota_periodistica/imagen_tyc.jpg" group-title="DEPORTES",TYC SPORT SD
+http://144.217.70.189:8000/live/iptvchile/demolibre/129.ts
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT HD" tvg-logo="http://www.tycsports.com/sites/default/files/nota_periodistica/imagen_tyc.jpg" group-title="DEPORTES",TYC SPORT HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/128.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC NETWORK" tvg-logo="https://pbs.twimg.com/profile_images/623546871525408768/8BLiGFqy.png" group-title="",UFC NETWORK
+http://144.217.70.189:8000/live/iptvchile/demolibre/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network HD" tvg-logo="https://pbs.twimg.com/profile_images/623546871525408768/8BLiGFqy.png" group-title="DEPORTES",UFC Network HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD op1" tvg-logo="http://www.llrr13.fr/sites/default/files/medias/styles/large/public/field/image/bein_blanccartouchecouleur_rvb_24.jpg?itok=C3ZgRrmS" group-title="DEPORTES",BEIN SPORT HD op1
+http://144.217.70.189:8000/live/iptvchile/demolibre/127.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD op2" tvg-logo="http://www.llrr13.fr/sites/default/files/medias/styles/large/public/field/image/bein_blanccartouchecouleur_rvb_24.jpg?itok=C3ZgRrmS" group-title="DEPORTES",BEIN SPORT HD op2
+http://144.217.70.189:8000/live/iptvchile/demolibre/121.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LA LIGA HD" tvg-logo="https://www.comparaiso.es/images/bein-laliga-300.jpg" group-title="",BEIN SPORT LA LIGA HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/156.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV" tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-monocolor-16-9.jpg" group-title="DEPORTES",LA LIGA TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/122.ts
+#EXTINF:-1 tvg-id="" tvg-name="+Futbol" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg" group-title="DEPORTES",+Futbol
+http://144.217.70.189:8000/live/iptvchile/demolibre/120.ts
+#EXTINF:-1 tvg-id="" tvg-name="+ Futboll 2 (movistar)" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg" group-title="DEPORTES",+ Futboll 2 (movistar)
+http://144.217.70.189:8000/live/iptvchile/demolibre/123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DEPORTES 1" tvg-logo="http://www.mundoplus.tv/img/cb01a9c0e40f87e56f60452bccd73321" group-title="DEPORTES",Movistar DEPORTES 1
+http://144.217.70.189:8000/live/iptvchile/demolibre/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar DEPORTES 2" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" group-title="DEPORTES",Movistar DEPORTES 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/125.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 720p" tvg-logo="" group-title="DEPORTES",Movistar F1 720p
+http://144.217.70.189:8000/live/iptvchile/demolibre/138.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="CINE",Movistar Estrenos
+http://144.217.70.189:8000/live/iptvchile/demolibre/140.ts
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="",Claro Sports
+http://144.217.70.189:8000/live/iptvchile/demolibre/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" group-title="CINE",A&E HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
+http://144.217.70.189:8000/live/iptvchile/demolibre/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CINE",AXN HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Click HD" tvg-logo="" group-title="LATINOAMERICA",Az Click HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/108.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINELATINO" tvg-logo="" group-title="CINE",CINELATINO
+http://144.217.70.189:8000/live/iptvchile/demolibre/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" group-title="CINE",Cinecanal HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/97.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" group-title="CINE",Comedy Central HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula HD" tvg-logo="" group-title="CINE",De Pelicula HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="CINE",DISTRITO COMEDIA
+http://144.217.70.189:8000/live/iptvchile/demolibre/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema" tvg-logo="" group-title="CINE",Fox Cinema
+http://144.217.70.189:8000/live/iptvchile/demolibre/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox action" tvg-logo="" group-title="CINE",Fox action
+http://144.217.70.189:8000/live/iptvchile/demolibre/7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1" tvg-logo="" group-title="CINE",Fox 1
+http://144.217.70.189:8000/live/iptvchile/demolibre/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="CINE",Fox
+http://144.217.70.189:8000/live/iptvchile/demolibre/5.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="" group-title="CINE",Fox Movies
+http://144.217.70.189:8000/live/iptvchile/demolibre/4.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="CINE",FX
+http://144.217.70.189:8000/live/iptvchile/demolibre/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="CINE",Film & Arts
+http://144.217.70.189:8000/live/iptvchile/demolibre/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="" group-title="CINE",Golden HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="" group-title="CINE",Golden Edge
+http://144.217.70.189:8000/live/iptvchile/demolibre/64.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="CINE",HBO
+http://144.217.70.189:8000/live/iptvchile/demolibre/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="CINE",HBO 2
+http://144.217.70.189:8000/live/iptvchile/demolibre/59.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="CINE",HBO Signature
+http://144.217.70.189:8000/live/iptvchile/demolibre/58.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="" group-title="CINE",MAX UP
+http://144.217.70.189:8000/live/iptvchile/demolibre/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="CINE",Space HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="" group-title="CINE",SUNDANCE TV
+http://144.217.70.189:8000/live/iptvchile/demolibre/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
+http://144.217.70.189:8000/live/iptvchile/demolibre/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="TnT Series" tvg-logo="" group-title="CINE",TnT Series
+http://144.217.70.189:8000/live/iptvchile/demolibre/1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="" group-title="CINE",Universal HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/26.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner HD" tvg-logo="" group-title="CINE",Warner HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/22.ts
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 13" tvg-logo="" group-title="LATINOAMERICA",AZTECA 13
+http://144.217.70.189:8000/live/iptvchile/demolibre/107.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="" group-title="",CARACOL
+http://144.217.70.189:8000/live/iptvchile/demolibre/101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="CULTURA",Animal Planet
+http://144.217.70.189:8000/live/iptvchile/demolibre/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="" group-title="CULTURA",NatGeo Wild
+http://144.217.70.189:8000/live/iptvchile/demolibre/2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
+http://144.217.70.189:8000/live/iptvchile/demolibre/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="CULTURA",Discovery Channel
+http://144.217.70.189:8000/live/iptvchile/demolibre/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="CULTURA",Discovery Civilization
+http://144.217.70.189:8000/live/iptvchile/demolibre/91.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="" group-title="CULTURA",Discovery ID
+http://144.217.70.189:8000/live/iptvchile/demolibre/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="" group-title="CULTURA",Discovery TLC
+http://144.217.70.189:8000/live/iptvchile/demolibre/87.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Teather HD" tvg-logo="" group-title="CULTURA",Discovery Teather HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/88.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INFANTILES",CARTOON NETWORK
+http://144.217.70.189:8000/live/iptvchile/demolibre/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carton Network" tvg-logo="" group-title="INFANTILES",Carton Network
+http://144.217.70.189:8000/live/iptvchile/demolibre/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="INFANTILES",Disney XD
+http://144.217.70.189:8000/live/iptvchile/demolibre/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="INFANTILES",Disney Channel
+http://144.217.70.189:8000/live/iptvchile/demolibre/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="INFANTILES",Disney Junior
+http://144.217.70.189:8000/live/iptvchile/demolibre/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="INFANTILES",Discovery Kids
+http://144.217.70.189:8000/live/iptvchile/demolibre/89.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK Jr" tvg-logo="" group-title="INFANTILES",NICK Jr
+http://144.217.70.189:8000/live/iptvchile/demolibre/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="INFANTILES",NICKELODEON
+http://144.217.70.189:8000/live/iptvchile/demolibre/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="" group-title="",EL GOURMET
+http://144.217.70.189:8000/live/iptvchile/demolibre/80.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="CINE",FOX LIFE
+http://144.217.70.189:8000/live/iptvchile/demolibre/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="CULTURA",NATIONAL GEOGRAPHIC
+http://144.217.70.189:8000/live/iptvchile/demolibre/45.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="CULTURA",TLC
+http://144.217.70.189:8000/live/iptvchile/demolibre/34.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet" tvg-logo="" group-title="",Gourmet
+http://144.217.70.189:8000/live/iptvchile/demolibre/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="",Glitz
+http://144.217.70.189:8000/live/iptvchile/demolibre/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tru Tv HD" tvg-logo="" group-title="CINE",Tru Tv HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/31.ts
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGACION DISCOVERY" tvg-logo="" group-title="CULTURA",INVESTIGACION DISCOVERY
+http://144.217.70.189:8000/live/iptvchile/demolibre/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="CULTURA",H2
+http://144.217.70.189:8000/live/iptvchile/demolibre/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="",History HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="",MTV Hits
+http://144.217.70.189:8000/live/iptvchile/demolibre/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="" group-title="",MTV Classic
+http://144.217.70.189:8000/live/iptvchile/demolibre/20.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="" group-title="",MTV BASE
+http://144.217.70.189:8000/live/iptvchile/demolibre/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="" group-title="",MTV Dance
+http://144.217.70.189:8000/live/iptvchile/demolibre/19.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO" tvg-logo="" group-title="",MTV LATINO
+http://144.217.70.189:8000/live/iptvchile/demolibre/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LATINO HITS" tvg-logo="" group-title="",MTV LATINO HITS
+http://144.217.70.189:8000/live/iptvchile/demolibre/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="" group-title="",MTV Music
+http://144.217.70.189:8000/live/iptvchile/demolibre/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="" group-title="",MTV Rocks
+http://144.217.70.189:8000/live/iptvchile/demolibre/16.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal De Las Estrellas HD" tvg-logo="" group-title="LATINOAMERICA",Canal De Las Estrellas HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO INT" tvg-logo="" group-title="LATINOAMERICA",TELEMUNDO INT
+http://144.217.70.189:8000/live/iptvchile/demolibre/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA HD" tvg-logo="" group-title="LATINOAMERICA",TELEVISA HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="Unicable HD" tvg-logo="" group-title="LATINOAMERICA",Unicable HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS HD" tvg-logo="" group-title="LATINOAMERICA",UNIMAS HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HD" tvg-logo="" group-title="LATINOAMERICA",UNIVISION HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/25.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TDN HD" tvg-logo="" group-title="LATINOAMERICA",UNIVISION TDN HD
+http://144.217.70.189:8000/live/iptvchile/demolibre/24.ts
