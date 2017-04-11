@@ -13,6 +13,8 @@ http://wpc.42af9.deltacdn.net/8042AF9/cableonda1/live/smil:559270467550.smil/chu
 #EXTINF:-1,NexTV 
 http://190.102.61.118:1935/live/livestream/playlist.m3u8
 
+#EXTINF:-1,Red Bull
+https://elementaldelta.redbull.tv/102_4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.licdn.com/media/p/2/005/052/363/2d205b7.png" group-title="Internacionais",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?
