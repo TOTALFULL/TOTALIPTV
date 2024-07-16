@@ -1775,3 +1775,26 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/759961884716064768/-Lt-tNx5_200x200.jpg" group-title="VENEZUELA",VTV 8
 rtmp://cast.streamingconnect.com:1935/vtvweb3/vtvweb3
 
+#EXTINF:-1 tvg-id="AguacateTV.ve", tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" group-title="VENEZUELA", Aguacate TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="GuaroTV.ve", tvg-logo="https://intervenhosting.net/imagenes/guarotv.jpg" group-title="VENEZUELA", Guaro TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="interTV.ve", tvg-logo="https://intervenhosting.net/imagenes/intertv.jpg" group-title="VENEZUELA", Inter TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="KandelaTV.ve", tvg-logo="https://intervenhosting.net/imagenes/kandelatv.jpg" group-title="VENEZUELA", Kandela TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-1 tvg-id="LatinaTV.ve", tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" group-title="VENEZUELA", Latina TV (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3639/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-id="Iglesialgd.org", tvg-logo="https://intervenhosting.net/imagenes/lgdtv.jpg" group-title="VENEZUELA", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Portutv.com", tvg-logo="https://intervenhosting.net/imagenes/portutv.jpg" group-title="VENEZUELA", Portuguesa Televisión (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:-1 tvg-id="Telecentro.com.ve", tvg-logo="https://intervenhosting.net/imagenes/telecentro.jpg" group-title="VENEZUELA", Telecentro (1080) [Not 24/7]
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
